@@ -1,12 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
+    padding: 0px;
 }
-h1{
-    color: darkturquoise;
-    font-size: 50px;
-    font-weight: 900;
-}
+
 h6{
     font-size: 20px;
 }
@@ -14,20 +11,24 @@ p{
     font-size: 20px;
 }
 .globel-community{
-    color: rgb(232, 177, 255);
+    padding-top: 25px;
+    margin:0px;
+    font-size: 50px;
+    color:black
+    
 }
 
 
 .stay-focus{
     color: dimgray;
     font-family: 'Times New Roman', Times, serif;
+    margin:0px;
     font-size: 70px; 
     padding-left:10px;
 }
 .border{
     border-left: 6px solid rgb(255, 218, 170);
-    height: 210px;
-    border-radius:2px;
+    height: 150px;
 }
 .light-colour{
     color: lightcoral;
@@ -56,7 +57,13 @@ p{
     width: 120%; 
 }
 .padding{
+    padding-top: 3%;
     padding-right:30%;
+}
+.limites{
+    color:black;
+    margin:0px;
+    font-size: 50px;
 }
 .link-button{
 
