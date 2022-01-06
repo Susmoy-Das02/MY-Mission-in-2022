@@ -103,6 +103,7 @@ p{
 }
 .Mission-area h1{
     font-size: 15px;
+    padding: 15px;
     
     
 }
@@ -111,6 +112,10 @@ p{
     
 
 }
+.Mission-area p{
+    padding: 15px;
+}
+
 .vission-area{
     background-color: rgb(253, 240, 205);
     width:40%;
@@ -124,6 +129,10 @@ p{
 }
 .vission-area h1{
     font-size: 15px;
+    padding: 15px;
+}
+.vission-area p{
+    padding:15px;
 }
 .goals-area{
     background-color: rgb(208, 255, 208);
@@ -136,6 +145,10 @@ p{
 }
 .goals-area h1{
     font-size: 15px;
+    padding: 15px; 
+}
+.goals-area p{
+    padding: 15px;
 }
 .mission{
     text-align: center;
