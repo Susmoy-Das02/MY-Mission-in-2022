@@ -1,0 +1,152 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: darkturquoise;
+    font-size: 50px;
+    font-weight: 900;
+}
+h6{
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.globel-community{
+    color: rgb(232, 177, 255);
+}
+
+
+.stay-focus{
+    color: dimgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px; 
+    padding-left:10px;
+}
+.border{
+    border-left: 6px solid rgb(255, 218, 170);
+    height: 210px;
+    border-radius:2px;
+}
+.light-colour{
+    color: lightcoral;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left:10%;
+    margin: 0%;
+
+}
+.half-width img{
+    width: 70%;
+    padding-bottom:20%;
+}
+.full-width{
+    width:75%;
+    padding-left:10%;
+
+}
+.full-width img{
+    width: 120%; 
+}
+.padding{
+    padding-right:30%;
+}
+.link-button{
+
+    text-decoration: none;
+    background-image: linear-gradient(skyblue, cyan);
+    color: white;
+    font-weight: 700;
+    padding:15px 20px ;
+}
+.develop-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:300px 300px;
+    background-position:40px 80px
+}
+.global-img{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px 250px;
+    background-position:bottom 60px right 100px;
+}
+.all-mission{
+    padding-top:10%;
+}
+.Mission-area{
+
+    background-color: rgb(167, 167, 167);
+    margin-left:10%;
+    margin-right:2%;
+    border-radius: 10%;
+
+    
+   
+}
+.Mission-area h1{
+    font-size: 15px;
+    padding: 5px;
+    
+    
+}
+.Mission-area img{
+    width:26.3%;
+    
+
+}
+.vission-area{
+    background-color: rgb(253, 240, 205);
+    border-radius:10%;
+    margin-left:1%
+    
+}
+.vission-area img {
+    width: 26.3%;
+
+}
+.vission-area h1{
+    font-size: 15px;
+    padding: 5px;
+}
+.goals-area{
+    background-color: rgb(208, 255, 208);
+    margin-left: 2%;
+    margin-right:10%;
+    border-radius: 10%;
+}
+.goals-area img{
+    width: 26.3%;
+}
+.goals-area h1{
+    font-size: 15px;
+    padding: 5px;
+}
+.mission{
+    text-align: center;
+    color: rgb(255, 149, 149);
+    padding-top:10%;
+}
+.indigo{
+    color: rgb(197, 115, 255);
+}
+footer{
+    text-align: center;
+    background-color: darkkhaki;
+}
+footer p{
+    color: white;
+}
+.footer-colour{
+    color: rgb(15, 14, 14);
+}
+footer h1{
+    color: brown;
+    font-family: cursive;
+}
